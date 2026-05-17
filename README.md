@@ -46,8 +46,9 @@ Day job: making a large backend less slow. Evenings: building small, sharp tools
 ## Hackathons
 
 - 🏆 **[Storiented](https://ai.google.dev/competition/projects/storiented)** — My submission to the Google AI Developer Competition.
-- 🥇 **[Gemma 4 "Good" Hackathon — Kaggle writeups](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups)**
-- 📣 **[Gemma 4 Challenge announcement (dev.to)](https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in)**
+- 🥇 **[OpenAgent: Local-Only Grounded Research for Obsidian with Gemma 4](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/new-writeup-1778764485243)** — The Gemma 4 Good Hackathon.
+- 📣 **[OpenAgent for Obsidian: Local-Only Grounded Research with Gemma 4](https://dev.to/nikita_dmitriev_48b6408e4/openagent-for-obsidian-local-only-grounded-research-with-gemma-4-28i)** — Gemma 4 Challenge.
+- 🌙 **[nights & weekends season 5](https://buildspace.so/s5/welcome)** — storiented.com.
 
 ## Find Me
 
