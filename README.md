@@ -7,11 +7,11 @@ Day job: making a large backend less slow. Evenings: building small, sharp tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![QMK](https://img.shields.io/badge/-QMK-333333?style=flat-square&logo=qmk&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+![Arch](https://img.shields.io/badge/-Arch%20(btw)-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![i3](https://img.shields.io/badge/-i3-52C0FF?style=flat-square&logo=i3&logoColor=white)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![tmux](https://img.shields.io/badge/-tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
 
@@ -49,6 +49,10 @@ Day job: making a large backend less slow. Evenings: building small, sharp tools
 - 🥇 **[OpenAgent: Local-Only Grounded Research for Obsidian with Gemma 4](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/new-writeup-1778764485243)** — The Gemma 4 Good Hackathon.
 - 📣 **[OpenAgent for Obsidian: Local-Only Grounded Research with Gemma 4](https://dev.to/nikita_dmitriev_48b6408e4/openagent-for-obsidian-local-only-grounded-research-with-gemma-4-28i)** — Gemma 4 Challenge.
 - 🌙 **[nights & weekends season 5](https://buildspace.so/s5/welcome)** — storiented.com.
+
+## Workflow
+
+My Mac, Linux laptop, and iPhone sit on a private mesh network and behave like one machine — any terminal, editor, or agent session is reachable from any of them, including on the go. The whole environment rebuilds itself on a fresh machine from a single config repo, and AI agents are first-class in it: one keystroke spawns one into an isolated copy of a PR's branch, and push notifications keep me in the loop when one finishes.
 
 ## Find Me
 
