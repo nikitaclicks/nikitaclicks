@@ -25,6 +25,8 @@ Day job: making a large backend less slow. Evenings: building small, sharp tools
 - 🔪 **[slice](https://github.com/nikitaclicks/slice)** — Token-frugal terminal coding agent.
 - 🟢 **[agents.tmux](https://github.com/nikitaclicks/agents.tmux)** — Watch every tmux-resident agent from the macOS menu bar.
 - 💓 **[claude-pulse](https://github.com/nikitaclicks/claude-pulse)** — Hook + tiny CLI that pushes Claude session count to your GitHub bio.
+- 🔮 **[foretype](https://github.com/nikitaclicks/foretype)** — System-wide autocomplete for macOS, in Swift.
+- 💡 **[pi-idea](https://github.com/nikitaclicks/pi-idea)** — Pi extension that turns a rough idea into a running app with a public URL in one session.
 
 **Libraries**
 - 🔐 **[next-auth-table-storage](https://github.com/nikitaclicks/next-auth-table-storage)** — Auth.js adapter for Azure Table Storage.
