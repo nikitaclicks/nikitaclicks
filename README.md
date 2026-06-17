@@ -20,13 +20,14 @@ Day job: making a large backend less slow. Evenings: building small, sharp tools
 ## Projects
 
 **AI · agents · developer tooling**
+- 🧠 **[obsidian-openagent](https://github.com/nikitaclicks/obsidian-openagent)** — Mobile-friendly Obsidian AI agent with tool use. In the official Obsidian plugin directory.
 - 🦀 **[context-cutter](https://github.com/nikitaclicks/context-cutter)** — Rust middleware that compresses LLM tool-call payloads ~10× using Lazy Handles.
-- 🧠 **[obsidian-openagent](https://github.com/nikitaclicks/obsidian-openagent)** — Mobile-friendly Obsidian AI agent with tool use.
 - 🔪 **[slice](https://github.com/nikitaclicks/slice)** — Token-frugal terminal coding agent.
+- 🔮 **[foretype](https://github.com/nikitaclicks/foretype)** — System-wide autocomplete for macOS, in Swift.
 - 🟢 **[agents.tmux](https://github.com/nikitaclicks/agents.tmux)** — Watch every tmux-resident agent from the macOS menu bar.
 - 💓 **[claude-pulse](https://github.com/nikitaclicks/claude-pulse)** — Hook + tiny CLI that pushes Claude session count to your GitHub bio.
-- 🔮 **[foretype](https://github.com/nikitaclicks/foretype)** — System-wide autocomplete for macOS, in Swift.
 - 💡 **[pi-idea](https://github.com/nikitaclicks/pi-idea)** — Pi extension that turns a rough idea into a running app with a public URL in one session.
+- 💸 **[agentplans.fyi](https://agentplans.fyi)** — Compare AI coding/agent subscription plans and find the best value-per-dollar in any budget.
 
 **Libraries**
 - 🔐 **[next-auth-table-storage](https://github.com/nikitaclicks/next-auth-table-storage)** — Auth.js adapter for Azure Table Storage.
