@@ -48,6 +48,7 @@ Day job: making a large backend less slow. Evenings: building small, sharp tools
 
 ## Hackathons
 
+- 🪙 **[Split Pay](https://devpost.com/software/split-pay-nbw6o3)** — No-account, offline-first expense splitting for trips. React + Capacitor, live on Google Play. My RevenueCat Shipaton 2026 entry.
 - 🏆 **[Storiented](https://ai.google.dev/competition/projects/storiented)** — My submission to the Google AI Developer Competition.
 - 🥇 **[OpenAgent: Local-Only Grounded Research for Obsidian with Gemma 4](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/new-writeup-1778764485243)** — The Gemma 4 Good Hackathon.
 - 📣 **[OpenAgent for Obsidian: Local-Only Grounded Research with Gemma 4](https://dev.to/nikita_dmitriev_48b6408e4/openagent-for-obsidian-local-only-grounded-research-with-gemma-4-28i)** — Gemma 4 Challenge.
